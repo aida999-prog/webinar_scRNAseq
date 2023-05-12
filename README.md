@@ -2,6 +2,6 @@
 Analysis of scRNA-seq data: GSE229413
 
 This repository contains a Jupyter Notebook file (.ipynb file) and R script for the analysis of scRNA-seq data from GSE229413.
-The integrated data is also provided, containing a normal sample (healthy), an adjacent-tumor sample, and a tumor sample from pancreas.
+A file with different cell-type markers is also provided.
 
 Enjoy the analysis!
